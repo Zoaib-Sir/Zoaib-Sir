@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoaib-sir&label=Profile%20views&color=0e75b6&style=flat" alt="zoaib-sir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zoaib-sir" alt="zoaib-sir" /></a> </p>
-
 - 🌱 I’m currently learning **Reinforcement Learning and MLOps**
 
 - 👨‍💻 All of my projects are available at [https://zoaib-sir.github.io/portfolio/](https://zoaib-sir.github.io/portfolio/)
