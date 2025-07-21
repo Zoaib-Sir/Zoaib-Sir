@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Zoaib Alam</h1>
-<h3 align="center">A passionate AI/ML developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoaib-sir&label=Profile%20views&color=0e75b6&style=flat" alt="zoaib-sir" /> </p>
-
-- 🌱 I’m currently learning **Reinforcement Learning and MLOps**
-
-- 👨‍💻 All of my projects are available at [https://zoaib-sir.github.io/portfolio/](https://zoaib-sir.github.io/portfolio/)
 
 - 📫 How to reach me **alamzoaib295@gmail.com**
 
